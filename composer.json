@@ -56,9 +56,6 @@
         ],
         "cs-fix": [
             "vendor/bin/php-cs-fixer fix --diff --diff-format udiff"
-        ],
-        "larastan": [
-            "vendor/bin/phpstan analyse"
         ]
     },
     "extra": {
